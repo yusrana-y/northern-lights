@@ -1,0 +1,9 @@
+/* Slick Pagination Dots */
+.slick-dots li button:before {
+    color: white; /* Change dots to white */
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: white; /* Ensure the active dot is also white */
+  }
+  
